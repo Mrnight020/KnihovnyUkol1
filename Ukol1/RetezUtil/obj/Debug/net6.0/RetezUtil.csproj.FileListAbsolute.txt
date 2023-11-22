@@ -1,0 +1,11 @@
+G:\Programování\4.ROČNÍK\KNIHOVNY\Ukol1\RetezUtil\bin\Debug\net6.0\RetezUtil.deps.json
+G:\Programování\4.ROČNÍK\KNIHOVNY\Ukol1\RetezUtil\bin\Debug\net6.0\RetezUtil.dll
+G:\Programování\4.ROČNÍK\KNIHOVNY\Ukol1\RetezUtil\bin\Debug\net6.0\RetezUtil.pdb
+G:\Programování\4.ROČNÍK\KNIHOVNY\Ukol1\RetezUtil\obj\Debug\net6.0\RetezUtil.GeneratedMSBuildEditorConfig.editorconfig
+G:\Programování\4.ROČNÍK\KNIHOVNY\Ukol1\RetezUtil\obj\Debug\net6.0\RetezUtil.AssemblyInfoInputs.cache
+G:\Programování\4.ROČNÍK\KNIHOVNY\Ukol1\RetezUtil\obj\Debug\net6.0\RetezUtil.AssemblyInfo.cs
+G:\Programování\4.ROČNÍK\KNIHOVNY\Ukol1\RetezUtil\obj\Debug\net6.0\RetezUtil.csproj.CoreCompileInputs.cache
+G:\Programování\4.ROČNÍK\KNIHOVNY\Ukol1\RetezUtil\obj\Debug\net6.0\RetezUtil.dll
+G:\Programování\4.ROČNÍK\KNIHOVNY\Ukol1\RetezUtil\obj\Debug\net6.0\refint\RetezUtil.dll
+G:\Programování\4.ROČNÍK\KNIHOVNY\Ukol1\RetezUtil\obj\Debug\net6.0\RetezUtil.pdb
+G:\Programování\4.ROČNÍK\KNIHOVNY\Ukol1\RetezUtil\obj\Debug\net6.0\ref\RetezUtil.dll
